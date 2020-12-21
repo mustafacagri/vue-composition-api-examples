@@ -11,6 +11,9 @@
   "dependencies": {
     "core-js": "^3.6.5",
     "vue": "^3.0.0",
+    "vue-js-counter": "^1.0.3",
+    "vue-js-progress": "^1.0.2",
+    "vue-page-transition": "^0.2.2",
     "vue-router": "^4.0.0-0"
   },
   "devDependencies": {
